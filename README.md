@@ -179,4 +179,4 @@ Se quiser, atualize com mais ferramentas novas que encontrar!
 
 ---
 
-> Feito com 💙 por [Seu Nome Aqui]
+> Feito com 💙 por pauloAskDsk
